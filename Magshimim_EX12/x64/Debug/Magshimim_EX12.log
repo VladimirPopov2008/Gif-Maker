@@ -1,0 +1,30 @@
+﻿  color.c
+  finalProject_Popov_Vladimir.c
+  linkedList.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+  (compiling source file 'finalProject_Popov_Vladimir.c')
+  
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\finalProject_Popov_Vladimir.c(105,2): warning C4013: 'green' undefined; assuming extern returning int
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\linkedList.c(41,2): warning C4013: 'createTextBox' undefined; assuming extern returning int
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\linkedList.c(55,3): warning C4013: 'red' undefined; assuming extern returning int
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\linkedList.c(57,3): warning C4013: 'cyan' undefined; assuming extern returning int
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\linkedList.c(557,13): warning C4047: 'initializing': 'FrameNode *' differs in levels of indirection from 'FrameNode **'
+  menu.c
+  Project.c
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\Project.c(23,2): warning C4013: 'createTextBox' undefined; assuming extern returning int
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\Project.c(98,119): warning C4474: 'printf' : too many arguments passed for format string
+      C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\Project.c(98,119):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\Project.c(119,111): warning C4474: 'printf' : too many arguments passed for format string
+      C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\Magshimim_EX12\Project.c(119,111):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  view.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,13): warning C4013: 'cvRound' undefined; assuming extern returning int
+  (compiling source file 'view.c')
+  
+  Generating Code...
+  Magshimim_EX12.vcxproj -> C:\Users\Cyber_User\Documents\Magshimim\Year1\C2\C\week12\Magshimim_EX12\x64\Debug\Magshimim_EX12.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
